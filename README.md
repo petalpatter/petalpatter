@@ -1,8 +1,8 @@
 - 👋 hi, I’m Libby, aka. petalpatter or petals!
-- 🏫 i'm studying electronic music production at UWA.
-- 🌟 i'm interested in game audio, including music composition + sound design.
-- 🌱 i’m currently solo-developing my first indie game, set in the world of "Caveland"!
-- 💌 i'm always open to connecting, for whatever reason! shoot me a message on twitter <3
+- 🏫 i'm studying electronic music production & sound design.
+- 🌟 i'm interested in going into game audio.
+- 🌱 i’m currently solo-developing my first game, set in my silly world called Caveland!
+- 💌 i'm always open to connecting, so shoot me a message wherever <3
 
 <!---
 petals4013/petals4013 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
