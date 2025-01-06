@@ -1,7 +1,7 @@
 - 👋 hi, I’m Libby, aka. petalpatter or petals!
-- 🏫 i have a degree in electronic music production & sound design.
-- 💼 i work in game audio.
-- 🌱 i’m currently solo-developing my first game, set in my silly world called Caveland!
+- 🏫 i have a BA in electronic music production & sound design.
+- 💼 i'm a freelancer in game audio, interested in creating and implementing music & SFX.
+- 🌱 i’m currently solo-developing my first game, set in the silly world of Caveland.
 - 💌 i'm always open to connecting, so shoot me a message wherever <3
 
 <!---
